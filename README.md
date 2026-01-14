@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ois-solutions.github.io/Homelander-docs/img/homelander-overview.jpg" alt="MEV-X Homelander" width="600" />
+  <img src="https://raw.githubusercontent.com/OIS-Solutions/Homelander-docs/refs/heads/main/static/img/homelander-overview.jpg" alt="MEV-X Homelander" width="600" />
 </p>
 
 
