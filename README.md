@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OIS-Solutions/Homelander-docs/refs/heads/main/static/img/homelander-overview.jpg" alt="MEV-X Homelander" width="600" />
+  <img src="https://raw.githubusercontent.com/mev-x-project/Homelander-docs/refs/heads/main/static/img/homelander-overview.jpg" alt="MEV-X Homelander" width="600" />
 </p>
 
 
@@ -15,7 +15,7 @@ Homelander operates as a non-invasive execution layer, fully isolated from core 
 ### Documentation
 
 📘 **Technical documentation:**  
-https://ois-solutions.github.io/Homelander-docs/
+https://mev-x-project.github.io/Homelander-docs/
 
 
 ### Security

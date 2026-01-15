@@ -2,12 +2,12 @@
 const config = {
   title: 'MEV-X Homelander',
   tagline: 'Post-swap, atomic MEV internalization for DEXs',
-  url: 'https://ois-solutions.github.io',
+  url: 'https://mev-x-project.github.io',
   baseUrl: '/Homelander-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.svg',
-  organizationName: 'OIS-Solutions',
+  organizationName: 'MEV-X',
   projectName: 'Homelander-docs',
   trailingSlash: true,
   i18n: { defaultLocale: 'en', locales: ['en'] },
@@ -44,7 +44,7 @@ const config = {
 
     { href: 'https://x.com/MEV_X_project', label: 'X', position: 'right' },
 
-    { href: 'https://github.com/OIS-Solutions/Homelander-docs', label: 'GitHub', position: 'right' },
+    { href: 'https://github.com/mev-x-project/Homelander-docs', label: 'GitHub', position: 'right' },
   ],
 },
     prism: { additionalLanguages: ['solidity'] },
